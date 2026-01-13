@@ -1,0 +1,11 @@
+_pkgdown.yml
+.github/
+.gitignore
+.Rbuildignore
+codecov.yml
+cran-comments.md
+data-raw/
+LICENSE.md
+pkgdown/
+docs/
+revdep/
