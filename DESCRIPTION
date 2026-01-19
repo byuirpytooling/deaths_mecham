@@ -1,5 +1,5 @@
-Package: deaths_mecham
-Title: Handles US death data provided by the CDC.
+Package: deathsmecham
+Title: Handles US death data provided by the CDC
 Version: 0.0.0.9000
 Authors@R: 
     person("Mitchell", "Mecham", , "mechamit000@example.com", role = c("aut", "cre"),
@@ -9,3 +9,16 @@ License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Imports:
+    dplyr,
+    httr2,
+    magrittr,
+    purrr,
+    rvest,
+    stringr,
+    tibble,
+    xml2
+
