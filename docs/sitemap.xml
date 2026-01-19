@@ -3,7 +3,11 @@
 <url><loc>/authors.html</loc></url>
 <url><loc>/index.html</loc></url>
 <url><loc>/reference/add2.html</loc></url>
+<url><loc>/reference/all_cdc_data.html</loc></url>
+<url><loc>/reference/get_html_page.html</loc></url>
 <url><loc>/reference/index.html</loc></url>
 <url><loc>/reference/multiply2.html</loc></url>
+<url><loc>/reference/scrape_all_sections.html</loc></url>
+<url><loc>/reference/scrape_cdc_section.html</loc></url>
 </urlset>
 
